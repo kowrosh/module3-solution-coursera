@@ -4,3 +4,6 @@
 body{
   box-sizing: content-box;
 }
+.nav-link{
+  text-align: center;
+}
