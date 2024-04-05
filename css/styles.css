@@ -1,6 +1,4 @@
-.row{
-	width: 100%;
-}
+
 body{
   box-sizing: content-box;
 }
@@ -37,6 +35,6 @@ h1 .headerbar{
 
 @media (max-width: 576px) {
   .plong {
-    padding: 0 50px !important; /* Adjust the value as needed */
+    text-align: center !important; /* Adjust the value as needed */
   }
 }
